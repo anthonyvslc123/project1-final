@@ -4,6 +4,9 @@ Anthony Valencia Cybersecurity Project !
 ## Automated ELK Stack Deployment
 The files in this repository were used to configure the network depicted
 below.
+
+
+
 ****[TODO: Update the path with the name of your
 diagram](Images/diagram_filename.png)
 These files have been tested and used to generate a live ELK deployment
@@ -32,12 +35,8 @@ The configuration details of each machine may be found below.
 _Note: Use the [Markdown Table
 Generator](http://www.tablesgenerator.com/markdown_tables) to add/remove
 values from the table_.
-| Name | Function | IP Address | Operating System |
-|----------|----------|------------|------------------|
-| Jump Box | Gateway | 10.0.0.1 | Linux |
-| TODO | | | |
-| TODO | | | |
-| TODO | | | |
+[project 1 table 1 zipzip.zip](https://github.com/anthonyvslc123/project1-final/files/7230614/project.1.table.1.zipzip.zip)
+
 ### Access Policies
 The machines on the internal network are not exposed to the public
 Internet.
@@ -50,11 +49,9 @@ IP address?_
 20.102.80.202
 A summary of the access policies in place can be found in the table
 below.
-| Name | Publicly Accessible | Allowed IP Addresses |
-|----------|---------------------|----------------------|
-| Jump Box | Yes/No | 10.0.0.1 10.0.0.2 |
-| | | |
-| | | |
+[Project 1 table 2 zipzip.zip](https://github.com/anthonyvslc123/project1-final/files/7230615/Project.1.table.2.zipzip.zip)
+
+
 ### Elk Configuration
 Ansible was used to automate configuration of the ELK machine. No
 configuration was performed manually, which is advantageous because…
